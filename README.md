@@ -1,4 +1,4 @@
-✨ Greetings, I'm 3GG and I love developing games! 🥳
+✨ Greetings, I'm Star Egg and I love developing games! 🥳
 
 <!--
 Check out this amazing screenshot from our latest project **Sky Whisper**
