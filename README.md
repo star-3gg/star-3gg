@@ -12,9 +12,9 @@ Check out this amazing screenshot from our latest project **Sky Whisper**
 
 <!-- ![Star Egg's GitHub stats](https://github-readme-stats.vercel.app/api?username=star-3gg&theme=nord#gh-dark-mode-only) -->
 
-## Languages
+## Top 3 Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=star-3gg&size_weight=0.5&count_weight=0.5&theme=nord&hide_title=true&langs_count=100#gh-dark-mode-only)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=star-3gg&size_weight=0.5&count_weight=0.5&theme=nord&hide_title=true&langs_count=3#gh-dark-mode-only)
 <!-- 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=star-3gg&size_weight=0.5&count_weight=0.5&theme=nord&layout=donut&hide_title=true&langs_count=100#gh-dark-mode-only)
 -->
